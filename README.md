@@ -1,8 +1,14 @@
 
-# TPTS - Projet Angular
+# Thusfood - Projet Angular
 
 ## Description
-TPTS est un projet Angular illustrant l'installation des dépendances, la création de composants, et l'insertion d'images. Les composants principaux incluent : `main`, `menu`, et `footer`.
+
+
+Thusfood est un projet Angular de landing page pour restaurant. Il simplifie le démarrage de projets de design en offrant un accès facile aux composants essentiels : `main`, `menu`, et `footer`.
+
+Les sections incluent la page d'accueil, les détails des recettes, la liste des blogs, les articles de blog, et la page de contact.
+
+Avec un design propre et moderne, Thusfood permet une navigation rapide et une utilisation conviviale pour une excellente expérience utilisateur.
 
 ## Prérequis
 - [Node.js](https://nodejs.org/) (version 20.15.1)
